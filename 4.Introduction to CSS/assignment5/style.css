@@ -1,0 +1,26 @@
+.box {
+   
+    border: 10px solid black;width: fit-content;
+    margin-inline: auto;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+
+
+}
+
+
+.silver {
+    margin-left: 15px;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+   
+
+}
+
+.text {
+    width: 10rem;
+}

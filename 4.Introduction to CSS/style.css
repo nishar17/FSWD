@@ -1,0 +1,55 @@
+
+/*  external css*/
+h3  {
+    border:2px solid grey;
+    color: blueviolet;
+}
+
+
+
+/*class selector*/
+.red-border {
+    text-align: center;
+    color: red;
+    font-size: 10vh;
+}      
+
+
+/* id selector*/
+
+#lorem-text1 {
+    font-weight: bold;
+    color: brown;
+    width: 10rem;     /*rem*/
+
+}
+
+
+/* nested selector*/
+header h1 {
+    font-style: italic;
+    background-color: aqua;
+    color: chartreuse;
+    font-size: 10vw;
+    padding-left: 20px, ;
+}
+
+/*rgb color*/
+
+aside {
+    font-size: 32px ;
+}
+aside h1 {
+      color: rgb(52, 89 ,63) ;
+      background-color: brown;
+      width: 10em;             /* em unit*/
+}
+
+/*hsl*/
+article h2 {
+    color: darkcyan;
+    background-color: hsl(200, 60%, 20%);
+    width:50%;  /*percentage unit*/
+    }
+
+    
