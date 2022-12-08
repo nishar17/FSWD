@@ -1,0 +1,85 @@
+body   {
+    background-color: lightpink;
+}
+
+/* .container {
+    width: 80%;
+    margin-inline: auto;
+    background-color: rgba(179, 0, 119, 0.815);
+} */
+
+.cat-outside {
+    width: 60px;
+    position: sticky;
+    left: 20px;
+    top: 100px;
+}
+
+
+
+.text-box {
+    width: 90%;
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+
+}
+
+
+
+.creta {
+    float: right;
+    width: 200px;
+}
+
+.panda {
+    width: 100px;
+    float: left;
+}
+
+  /* .top-paragraph { 
+
+}
+
+.bottom-paragraph {
+    clear: left;
+} */
+
+.main   {
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.top {
+    width: 100%;
+    background-color: lightgreen;
+    height: 100px;
+
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    background-color: red;
+    display: inline-block;
+}
+
+.right {
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+    float: right;
+}
+
+.text-wrapper {
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    overflow:scroll auto;
+}
+
+
+.spacer{
+    height: 200vh;
+}

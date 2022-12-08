@@ -1,0 +1,28 @@
+.red-border{
+    border: 2px solid red;
+}
+
+
+/* flow of the element in html */
+p {
+    margin:40px;
+    width: 400px;
+    display: inline-block;
+}
+
+.header-text {
+    
+    background-color: burlywood;
+}
+
+
+/* farak pada with the help of inline-block*/
+a {
+    width: 400px;
+    display: inline-block;
+}
+
+img {
+    display: none;
+    width: 400px;
+}
