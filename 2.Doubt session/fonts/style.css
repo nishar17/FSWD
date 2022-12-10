@@ -1,0 +1,17 @@
+body {
+    font-size: small; 
+    font-family: monospace;  
+}
+
+.size {
+    font-size: 4rem;
+    font-weight: bold;
+    font-family: cursive;
+    font-style: italic;
+}
+
+.sas {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+  }

@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Spray+Paint&family=Varela+Round&display=swap');
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 40px auto;
+    row-gap: 20px;
+}
+
+.box {
+    flex-basis: 50%;
+    display: flex;
+    gap: 20px;
+}
+
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+
+h3 {
+    font-size: 1.1rem;
+}
+
+i {
+    color: orange;
+    
+}
+
+p {
+        font-size: 0.7rem;
+        margin-top: 8px;
+
+
+}
+
+button {
+    display: flex;
+}

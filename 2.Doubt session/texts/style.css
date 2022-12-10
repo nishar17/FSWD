@@ -1,0 +1,59 @@
+h1 {
+    color: blueviolet;
+    background-color: burlywood;
+    text-decoration-line: underline overline;
+    text-align: center;
+    text-decoration-color: dodgerblue;
+    text-decoration-style: dotted;
+    text-decoration-thickness:20px ;
+
+}
+
+.ex{
+    text-align: justify;
+    border: 2px dotted black;
+    /* text-align: center;
+    text-align: right;  etc... */
+    text-decoration:underline blue wavy 2px ;
+}
+
+.text-decoration-line {
+    text-decoration-line: line-through;
+    text-decoration-color: brown;
+    /* underline, overline etc.... */
+    
+}
+
+.text-transform {
+    text-transform:uppercase;
+}
+
+.text-indent {
+    text-indent: 200px;
+}
+
+.letter-spacing {
+    letter-spacing: 20px;
+}
+
+.line-height {
+    line-height: 100px;
+}
+
+
+.word-spacing {
+    word-spacing: 50px;
+
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px black;
+}
+
+.shadow{
+    color: transparent;
+}
+
+
+
+
